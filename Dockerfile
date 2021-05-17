@@ -1,2 +1,2 @@
 FROM tomcat
-COPY target/AFID.war /usr/share/tomcat/webapps/ 
+COPY target/AFID.war /usr/local/tomcat/webapps/ 
